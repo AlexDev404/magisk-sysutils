@@ -1,0 +1,6 @@
+id=sysutils
+name=Coreutils
+version=v1.0.0
+versionCode=1
+author=alexdev404
+description=80 Android arm64 utilities in /system/xbin — bash, vim, nano, curl, tmux, gdb, strace, socat, rsync, sqlite3, openssl, net-tools and more. Requires Android 13+.
