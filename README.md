@@ -19,7 +19,7 @@ The rest of the module is a static payload — a directory of statically/arm64-l
 - **Shells & terminal**: `bash`, `mksh`, `tmux`, `script`
 - **Editors**: `vim`, `nano`, `bvi`
 - **Networking**: `curl`, `wget2`, `dig`, `dnsmasq`, `ncat`, `socat`, `stunnel`, `rsync`, `unfsd`, `ifconfig`, `route`, `netstat`, `arp`, `iptunnel`, `ipmaddr`, `mii-tool`, `nameif`, `rarp`, `ngrep`, `hostname`, `darkhttpd`
-- **Process/system monitoring**: `htop`, `btop`, `nmon`, `pstree`, `strace`, `gdb`, `gdbserver`, `fuser`, `killall`, `pagemon`
+- **Process/system monitoring**: `htop`, `btop`, `nmon`, `pstree`, `strace`, `gdb`, `gdbserver`, `fuser`, `killall`, `pagemon`, `top`
 - **Archives & compression**: `tar`, `zip`/`unzip`/`unzipsfx`/`funzip`/`zipcloak`/`zipnote`/`zipsplit`, `gzip`/`gunzip`, `pigz`, `zstd`, `xz`, `7zz`, `cpio`
 - **Text processing**: `grep`, `awk`, `gawk`, `bc`, `xxd`, `less`/`lessecho`/`lesskey`, `bmore`, `bvmore`
 - **Filesystem**: `find`, `mount`, `umount`, `losetup`, `mkfs.ext3`, `mkfs.ext4`
